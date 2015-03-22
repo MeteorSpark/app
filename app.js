@@ -1,0 +1,4 @@
+APP = {
+  helpers: {},
+  collections: {}
+}
