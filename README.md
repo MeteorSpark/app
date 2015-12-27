@@ -14,7 +14,10 @@ Expose an empty APP object, to be used to organize projects
 ```javascript
 APP = {
   helpers: {},
-  collections: {}
+  collections: {},
+  modules: {
+    main: {}
+  }
 }
 ```
 

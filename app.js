@@ -1,4 +1,7 @@
 APP = {
   helpers: {},
-  collections: {}
+  collections: {},
+  modules: {
+    main: {}
+  }
 }
