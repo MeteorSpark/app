@@ -1,7 +1,7 @@
 Package.describe({
   name: 'meteorspark:app',
   summary: 'Expose an empty APP object, to be used to organize projects',
-  version: '0.1.0',
+  version: '0.2.0',
   git: 'https://github.com/MeteorSpark/app'
 });
 
