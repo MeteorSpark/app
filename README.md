@@ -1,6 +1,6 @@
 # meteorspark:app
 
-Expose an empty APP object, to be used to organize projects
+Exposes to the global namespace\'s `APP`, an event emitter based object for project organization
 
 **Benefits of using meteorspark:app**
 
@@ -8,6 +8,7 @@ Expose an empty APP object, to be used to organize projects
 * A clean way to share objects among your project files in Coffee based
   projects (instead of using `share.` or @, the global name space).
 * Keep the global namespace clean.
+* Provides global modular communication layer based on node.js's Event Emitter.
 
 ## Structure
 
